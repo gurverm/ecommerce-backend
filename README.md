@@ -39,6 +39,10 @@ Next, is the GET requests to return a single category, product, and tag:
 ![DEMO](./images/single-GET.gif)
 Google drive link to DEMO for single GET requests https://drive.google.com/file/d/19Z2Q1Vlb1tlxcHZBWY2HAYhZk4VvTFjS/view
 
+Finally we have an example of a POST, PUT, and DELETE in the categories path.
+![DEMO](./images/categories-example.gif)
+
+
 ## License
 This project is licensed under mit 
 https://opensource.org/licenses/MIT
