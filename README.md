@@ -41,6 +41,8 @@ Google drive link to DEMO for single GET requests https://drive.google.com/file/
 
 Finally we have an example of a POST, PUT, and DELETE in the categories path.
 ![DEMO](./images/categories-example.gif)
+Google drive link to DEMO https://drive.google.com/file/d/1K3z7D7cdgAwmM7fYxFyVZHaYcDdkNZkO/view
+
 
 
 ## License
